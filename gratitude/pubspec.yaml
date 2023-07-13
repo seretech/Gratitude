@@ -1,0 +1,77 @@
+name: gratitude
+description: Gratitude Project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  fonts:
+    - family: Cabinet-Grotesk
+      fonts:
+        - asset: fonts/Cabinet-Grotesk-Bold.ttf
+        - asset: fonts/Cabinet-Grotesk-Regular.ttf
+
+  uses-material-design: true
+
+  assets:
+    - assets/box/1.png
+    - assets/box/2.png
+    - assets/box/3.png
+    - assets/box/4.png
+    - assets/icons/ic1.png
+    - assets/icons/ic2.png
+    - assets/icons/ic3.png
+    - assets/icons/ic4.png
+    - assets/icons/ic5.png
+    - assets/icons/ic6.png
+    - assets/icons/ic7.png
+    - assets/icons/ic8.png
+    - assets/icons/top_up.png
+    - assets/icons/rank.png
+    - assets/icons/dib.png
+    - assets/icons/dib1.png
+    - assets/icons/dib2.png
+    - assets/icons/dib3.png
+    - assets/cards/1.png
+    - assets/cards/2.png
+    - assets/cards/3.png
+    - assets/cards/f1.png
+    - assets/cards/f2.png
+    - assets/cards/f3.png
+    - assets/cards/f4.png
+    - assets/cards/insure.png
+    - assets/cards/invest.png
+    - assets/cards/save.png
+    - assets/nav/h1.png
+    - assets/nav/h2.png
+    - assets/nav/h3.png
+    - assets/nav/h4.png
+    - assets/nav/h5.png
+    - assets/j.png
+    - assets/ava.png
+    - assets/top.png
+    - assets/for.png
+    - assets/logo.png
+    - assets/fly.png
+    - assets/graph.png
+    - assets/wh_eye.png
+    - assets/img.png
+    - assets/onboard.png
